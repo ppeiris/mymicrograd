@@ -1,0 +1,10 @@
+*.DS_Store
+*a.out
+*.o
+bin/
+*.enmd
+tmp*
+*.out.*
+*out.dSYM
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
